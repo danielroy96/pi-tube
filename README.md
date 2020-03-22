@@ -3,7 +3,7 @@
 A fun experiment I ran to try and emulate the departure boards
 on tube platforms using the TfL API.
 
-##I just want to run it
+## I just want to run it
 
 You'll need a Raspberry Pi with a 16x2 LCD display wired to
 the following GPIO pins:
